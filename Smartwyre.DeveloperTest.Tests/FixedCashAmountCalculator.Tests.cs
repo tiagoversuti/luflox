@@ -1,8 +1,5 @@
 ﻿using FluentAssertions;
 using Smartwyre.DeveloperTest.Services.Calculators;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace Smartwyre.DeveloperTest.Tests
